@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Raza Shaukat</h1>
 <h3 align="center">An enthusiastic iOS Developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Aliraza9266/Aliraza9266/blob/main/Ali.gif">
 
 - 🔭 I’m currently working at **Virtual University Software House (VUSWH)** as an **iOS Developer**
 - 🌱 I’m skilled in **SwiftUI, UIKit, and Flutter** with additional knowledge of **HTML, CSS, JavaScript, and OOP**
