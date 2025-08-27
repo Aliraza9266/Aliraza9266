@@ -8,5 +8,5 @@ A passionate iOS & Flutter Developer from Pakistan
 - 🌱 I’m learning **SwiftUI | Flutter | React Native**
 - 👯 I’m looking to collaborate on **Mobile App Projects**
 - 🤝 I’m looking for help with **Backend APIs**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **AliRazaShaukat92@gmail.com**
 - ⚡ Fun fact: I love clean UI & problem solving
