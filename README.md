@@ -1,38 +1,188 @@
-<h1 align="center">Hi 👋, I'm Ali Raza Shaukat</h1>
-<h3 align="center">An enthusiastic iOS Developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Aliraza9266/Aliraza9266/blob/main/Ali.gif">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+SHAHID+AMIN;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working at **Virtual University Software House (VUSWH)** as an **iOS Developer**
-- 🌱 I’m skilled in **SwiftUI, UIKit, and Flutter** with additional knowledge of **HTML, CSS, JavaScript, and OOP**
-- 👯 I’m looking to collaborate on **iOS & cross-platform mobile apps**
-- 🤝 I’m looking for guidance on **professional networking (LinkedIn growth)**
-- ⚡ Fun fact: I enjoy coding and sports 🏏⚽
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Developer+Tag;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+Scalable+%26+Intelligent+Applications;Passionate+About+Innovation+%26+Problem+Solving" />
+</p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding Animation" width="500"/>
+</div>
 
-<h3 align="left">📫 Contact Me:</h3>
-<p align="left">
-📍 Sheikhupura, Pakistan 39350 <br>
-📧 <a href="mailto:Alirazashaukat92@gmail.com">Alirazashaukat92@gmail.com</a> <br>
-📱 +92 306 1428196 <br>
-<a href="https://linkedin.com/in/ali-raza-shaukat-011082292" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Raza Shaukat LinkedIn" height="30" width="40" />
-</a>
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahid1275&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/shahid1275?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="uikit" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+## 🚀 About Me
+
+```typescript
+const shahidAmin = {
+  title: "Software Engineer",
+  company: "Developer Tag",
+  location: "Pakistan 🇵🇰",
+  
+  code: ["JavaScript", "TypeScript", "C++", "C#", "Java", "Python"],
+  
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "Redux", "Vite"],
+      css: ["Tailwind CSS", "Bootstrap", "SASS", "Material-UI"]
+    },
+    backEnd: {
+      runtime: ["Node.js", "Express.js"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+      api: ["REST", "GraphQL"]
+    },
+    exploring: ["Machine Learning", "Cloud Architecture", "System Design"],
+    cloud: ["AWS", "Heroku", "Firebase"],
+    tools: ["Git", "Docker", "Webpack", "VSCode"]
+  },
+  
+  currentFocus: "Developing robust, scalable web applications and expanding technical expertise",
+  architecture: ["MVC", "RESTful Design", "Component-Based Architecture"],
+  
+  philosophy: "Writing clean, maintainable code and solving real-world problems"
+};
+```
+
+<br/>
+
+## 💼 Professional Experience
+
+🔹 **Software Engineer** at **Developers Tag**  
+🔸 Developing full-stack web applications using modern technologies  
+🔸 Working with MERN stack, Next.js, and TypeScript  
+🔸 Contributing to scalable and maintainable codebases  
+🔸 Applying best practices in software development and architecture  
+
+<br/>
+
+## 🎯 Current Focus
+
+- 🌱 Expanding knowledge in **advanced web technologies** and **system design**
+- 🔭 Building **reliable and scalable applications** using modern frameworks
+- 💡 Learning **Cloud Architecture**, **DevOps**, and **Machine Learning** fundamentals
+- 👯 Open to collaborate on **challenging web development projects**
+- 🤝 Networking with professionals and learning from experienced developers
+- 📚 Committed to continuous learning and professional growth
+
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahid-ameen-978636279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/shahid1275" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
+<br/>
 
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+### 🤖 AI/ML & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+</p>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahid1275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid1275&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid1275&theme=tokyonight&hide_border=true" width="700"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahid1275&theme=tokyo-night&hide_border=true&area=true" width="900"/>
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Good+code+tells+a+clear+story.+%E2%80%93+Cory+House;First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%93+John+Johnson;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%93+Kent+Beck;Code+is+read+more+often+than+it+is+written.+%E2%80%93+Guido+van+Rossum;Simplicity+is+the+soul+of+efficiency.+%E2%80%93+Austin+Freeman;Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.;The+best+error+message+is+the+one+that+never+shows+up.;Experience+is+the+name+everyone+gives+to+their+mistakes.;Thanks+for+visiting!+Happy+Coding!+%F0%9F%9A%80"/>
+</h3>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+</div>
