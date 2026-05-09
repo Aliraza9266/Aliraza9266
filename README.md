@@ -13,8 +13,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/yourgithubusername?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Aliraza9266&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Aliraza9266?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ console.log(aliRaza);
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/Aliraza9266" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
