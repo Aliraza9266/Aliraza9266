@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+SHAHID+AMIN;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Ali+Raza;Front+End+Developer;React.js+Developer;Continuous+Learner" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Developer+Tag;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+Scalable+%26+Intelligent+Applications;Passionate+About+Innovation+%26+Problem+Solving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Pakistan;HTML+%7C+CSS+%7C+JavaScript+%7C+React.js;Building+Responsive+Web+Applications;Passionate+About+Clean+UI+%26+Modern+Design" />
 </p>
 
 <div align="center">
@@ -13,159 +13,157 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahid1275&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/shahid1275?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/yourgithubusername?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-```typescript
-const shahidAmin = {
-  title: "Software Engineer",
-  company: "Developer Tag",
+```javascript
+const aliRaza = {
+  title: "Front End Developer",
   location: "Pakistan 🇵🇰",
-  
-  code: ["JavaScript", "TypeScript", "C++", "C#", "Java", "Python"],
-  
+
+  experience: "1 Year Experience in Frontend Development",
+
+  code: ["HTML", "CSS", "JavaScript", "C++", "Java"],
+
   technologies: {
     frontEnd: {
-      js: ["React", "Next.js", "Redux", "Vite"],
-      css: ["Tailwind CSS", "Bootstrap", "SASS", "Material-UI"]
+      markup: ["HTML5"],
+      styling: ["CSS3", "Bootstrap", "Tailwind CSS"],
+      scripting: ["JavaScript"],
+      framework: ["React.js"]
     },
-    backEnd: {
-      runtime: ["Node.js", "Express.js"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-      api: ["REST", "GraphQL"]
-    },
-    exploring: ["Machine Learning", "Cloud Architecture", "System Design"],
-    cloud: ["AWS", "Heroku", "Firebase"],
-    tools: ["Git", "Docker", "Webpack", "VSCode"]
+
+    programmingLanguages: ["C++", "Java"],
+
+    tools: ["Git", "GitHub", "VS Code"],
+
+    learning: [
+      "Advanced React.js",
+      "Frontend Optimization",
+      "Modern UI/UX Design"
+    ]
   },
-  
-  currentFocus: "Developing robust, scalable web applications and expanding technical expertise",
-  architecture: ["MVC", "RESTful Design", "Component-Based Architecture"],
-  
-  philosophy: "Writing clean, maintainable code and solving real-world problems"
+
+  skills: [
+    "Responsive Web Design",
+    "React Components",
+    "Frontend Development",
+    "Problem Solving",
+    "Clean Code Writing"
+  ],
+
+  currentFocus:
+    "Building responsive and user-friendly web applications using React.js",
+
+  philosophy:
+    "Keep learning, keep building, and keep improving every day."
 };
+
+console.log(aliRaza);
 ```
 
 <br/>
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-🔹 **Software Engineer** at **Developers Tag**  
-🔸 Developing full-stack web applications using modern technologies  
-🔸 Working with MERN stack, Next.js, and TypeScript  
-🔸 Contributing to scalable and maintainable codebases  
-🔸 Applying best practices in software development and architecture  
-
-<br/>
-
-## 🎯 Current Focus
-
-- 🌱 Expanding knowledge in **advanced web technologies** and **system design**
-- 🔭 Building **reliable and scalable applications** using modern frameworks
-- 💡 Learning **Cloud Architecture**, **DevOps**, and **Machine Learning** fundamentals
-- 👯 Open to collaborate on **challenging web development projects**
-- 🤝 Networking with professionals and learning from experienced developers
-- 📚 Committed to continuous learning and professional growth
+🔹 **Front End Developer**  
+🔸 Developing responsive and modern web applications  
+🔸 Working with HTML, CSS, JavaScript, and React.js  
+🔸 Creating clean and user-friendly UI designs  
+🔸 Improving frontend performance and responsiveness  
 
 <br/>
 
-## 🌐 Connect With Me
+# 🎯 Current Focus
+
+- 🌱 Learning advanced concepts in **React.js**
+- 🔭 Building responsive and scalable web applications
+- 💡 Improving frontend development and UI/UX skills
+- 👯 Open to collaborate on frontend projects
+- 📚 Committed to continuous learning and growth
+
+<br/>
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahid-ameen-978636279/" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-raza-shaukat-011082292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/shahid1275" target="_blank">
+
+  <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
-### 💻 Programming Languages
+## 💻 Programming Languages
+
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </p>
 
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-</p>
+## ⚙️ Tools
 
-### 🗄️ Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
-
-### 🤖 AI/ML & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
 <br/>
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahid1275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid1275&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid1275&theme=tokyonight&hide_border=true" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight&hide_border=true" width="700"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahid1275&theme=tokyo-night&hide_border=true&area=true" width="900"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=tokyo-night&hide_border=true&area=true" width="900"/>
 </div>
 
 <br/>
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -179,7 +177,7 @@ const shahidAmin = {
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Good+code+tells+a+clear+story.+%E2%80%93+Cory+House;First%2C+solve+the+problem.+Then%2C+write+the+code.+%E2%80%93+John+Johnson;Clean+code+always+looks+like+it+was+written+by+someone+who+cares.;Make+it+work%2C+make+it+right%2C+make+it+fast.+%E2%80%93+Kent+Beck;Code+is+read+more+often+than+it+is+written.+%E2%80%93+Guido+van+Rossum;Simplicity+is+the+soul+of+efficiency.+%E2%80%93+Austin+Freeman;Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.;The+best+error+message+is+the+one+that+never+shows+up.;Experience+is+the+name+everyone+gives+to+their+mistakes.;Thanks+for+visiting!+Happy+Coding!+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Keep+Learning+Keep+Building!;Clean+Code+Creates+Better+Experiences.;Frontend+Development+is+Creativity+%2B+Logic.;Code+with+Passion+🚀;Thanks+for+visiting!+Happy+Coding!+💙" />
 </h3>
 
 <div align="center">
